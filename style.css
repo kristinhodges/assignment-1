@@ -38,7 +38,7 @@ article {
 }
 
 
- ul { 
+ ul li { 
  display: table; 
  margin: 0 auto;
  text-align: center;
