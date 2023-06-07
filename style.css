@@ -37,10 +37,8 @@ article {
   text-align: center;
 }
 
-ul {
- padding-left: 0;
-  list-style-position: inside;
-}
+
+
 
 ol {
  display: table; 
