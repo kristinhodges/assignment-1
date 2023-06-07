@@ -38,9 +38,8 @@ article {
 }
 
 ul {
- display: table; 
- margin: 0 auto;
- text-align: center;
+ padding-left: 0;
+  list-style-position: inside;
 }
 
 ol {
