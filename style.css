@@ -35,8 +35,8 @@ article {
   padding: 50px 0;
   text-align: center;
 }
-ul {text-align: left;}
-ol {text-align: left;}
+ul {text-align: center;}
+ol {text-align: center;}
 
 article div {
   text-align: center;
@@ -73,7 +73,6 @@ hr {
 /* Add your solution below */
 
 .image-circle {
-  Width: 2px;
   border-radius: 50%
 }
   
