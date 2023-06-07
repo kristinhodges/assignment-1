@@ -77,7 +77,10 @@ hr {
 /* Add your solution below */
 
 .image-circle {
-  border-radius: 50%
+  border-radius: 50%;
+  border-width: 2px;
+  color: #003049;
+  text-align: center;
 }
   
 a:link {
