@@ -43,6 +43,9 @@ list-style-position: outside;
 text-alignment: center;
 }
  
+li {
+  text-align: center;
+}
 
 
 ol {
@@ -50,6 +53,7 @@ ol {
  margin: 0 auto;
  text-align: center;
 }
+
 
 
 
