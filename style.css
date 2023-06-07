@@ -36,17 +36,18 @@ article {
   text-align: center;
 }
 ul 
+display: table;
+margin: 0 auto;
 text-align: left;
 }
 ol 
 {
- text-align: left;
+display: table;
+margin: 0 auto;
+text-align: left;
 }
 
-li
-{
-  text-align: center;
-}
+
 
 article div {
   text-align: center;
