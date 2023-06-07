@@ -32,7 +32,7 @@ h4 {
 
 article {
   padding: 50px 0;
-  text-align: left ;
+  text-align: center;
 }
 ul {text-align: left;}
 ol {text-align: left;}
@@ -44,14 +44,10 @@ article div {
 
 p {
   line-height: 1.5;
+  text-align: center;
 }
 
-a:link {
-  color: #d62828;
-}
 
-a:hover {
-  color: #f77f00;
 
   
 /* The div container constrains the content width within the main container to 600px */
@@ -64,6 +60,7 @@ img {
   width: 100%;
   max-width: 200px;
   height: auto;
+  text-align: center;  
 }
 
 hr {
@@ -75,3 +72,10 @@ hr {
 .image-circle {
   border-radius: 50%;
 }
+  
+a:link {
+  color: #d62828;
+}
+
+a:hover {
+  color: #f77f00
