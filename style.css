@@ -38,11 +38,11 @@ article {
 }
 
 
- ul  { 
-display: table; 
-justify-content: center;
+ul  { 
+list-style-position: outside;
+text-alignment: center;
 }
-  
+ 
 
 
 ol {
