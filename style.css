@@ -47,7 +47,9 @@ p {
   line-height: 1.5;
   text-align: center;
 }
-
+section {
+  text-align: center;
+}
 
 
   
@@ -81,3 +83,4 @@ a:link {
 
 a:hover {
   color: #f77f00;
+}
