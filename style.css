@@ -42,6 +42,11 @@ ol
 {text-align: center;
 }
 
+li
+{
+  text-align: center;
+}
+
 article div {
   text-align: center;
   width: 100%;
