@@ -36,10 +36,11 @@ article {
   text-align: center;
 }
 ul 
-text-align: center;
+text-align: left;
 }
 ol 
-{text-align: center;
+{
+ text-align: left;
 }
 
 li
