@@ -10,8 +10,9 @@ body {
 
 /* Set the font family for any h1, h2, or h3 heading */
 
-header
-{text-align: center}
+header{
+  text-align: center
+}
        
 h1 { 
   font-family: 'Playfair Display', Times, serif;
@@ -20,7 +21,7 @@ h1 {
 h2{
   font-family:'Play Fair Display', Times, serif ;
   text-align: center;
-}
+ }
 h3 {
   font-family: "Playfair Display", Times, serif;
   text-align: center;
@@ -36,16 +37,16 @@ article {
   text-align: center;
 }
 
-ul 
-{
-text-align:center;
-list-style-position: inside;
+ul {
+ display: table; 
+ margin: 0 auto;
+ text-align: left;
 }
 
-ol 
-{
-text-align: center;
-list-style-position: inside;
+ol {
+ display: table; 
+ margin: 0 auto;
+ text-align: left;
 }
 
 
