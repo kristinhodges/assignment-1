@@ -38,10 +38,10 @@ article {
 }
 
 
- ul li { 
- display: table; 
- margin: 0 auto;
- text-align: center;
+ ul  { 
+display: table; 
+justify-content: center;
+text-align: center;
 }
   
 
