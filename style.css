@@ -71,6 +71,7 @@ hr {
 
 .image-circle {
   border-radius: 50%;
+  
 }
   
 a:link {
@@ -78,4 +79,4 @@ a:link {
 }
 
 a:hover {
-  color: #f77f00
+  color: #f77f00;
