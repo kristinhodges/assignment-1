@@ -39,8 +39,9 @@ article {
 
 
 ul  { 
-text-align: left;
+position: center; 
 list-style-position: outside;
+text-align: left;
 }
 
 
