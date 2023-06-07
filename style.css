@@ -39,7 +39,7 @@ article {
 
 
 ul  { 
-display: table;
+display: center;
 list-style-position: outside;
 text-align: center;
 }
