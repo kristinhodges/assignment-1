@@ -39,7 +39,7 @@ article {
 
 
 ul  { 
-text-align: center;
+text-align: left;
 list-style-position: outside;
 }
 
@@ -48,7 +48,7 @@ list-style-position: outside;
 ol {
  display: table; 
  margin: 0 auto;
- text-align: center;
+ text-align: left;
 }
 
 
