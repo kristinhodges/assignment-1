@@ -42,7 +42,7 @@ article {
 ul  { 
   padding-left: 0; 
   list-style-position: inside;
-  text-align: center;
+  justify-content: center;
 }
 
 
@@ -50,7 +50,7 @@ ul  {
 ol {
   padding-left: 0; 
   list-style-position: inside;
-  text-align: justify;
+  justify-content: center;
 }
 
 
