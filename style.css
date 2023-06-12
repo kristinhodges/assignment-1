@@ -42,16 +42,11 @@ article {
 ul  { 
   padding-left: 0; 
   list-style-position: inside;
-  justify-content: center;
 }
 
 
 
-ol {
-  padding-left: 0; 
-  list-style-position: inside;
-  justify-content: center;
-}
+
 
 
 
