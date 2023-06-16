@@ -39,13 +39,9 @@ article {
 
 
 
-ul  { 
-  padding-left: 0; 
-  list-style-position: inside;
-}
-
-ol {
-  text-align: center;
+ol, ul {
+  margin: 0 auto;
+  width: fit-content;
 }
 
 
